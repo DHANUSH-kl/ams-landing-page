@@ -44,7 +44,7 @@
   }
   
   .nav__link {
-    position: fixed;
+    position: absolute;
     width: 94%;
     top: 5rem;
     left: 18px;
@@ -376,5 +376,6 @@ footer {
 @media(max-width:700px) {
   .links {
     flex-direction: column;
+    gap: 1.5rem;
   }
 }
