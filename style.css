@@ -37,9 +37,9 @@
   
   .hamburger .line {
     display: block;
-    width: 40px;
-    height: 5px;
-    margin-bottom: 10px;
+    width: 29px;
+    height: 2px;
+    margin-bottom: 6px;
     background-color: black;
   }
   
